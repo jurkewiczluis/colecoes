@@ -1,0 +1,8 @@
+lista = [10, 20, 30, 40, 50]
+print("Lista antes da modificação")
+print(lista)
+
+lista[2] = "trinta"
+
+print("Lista após a modificação")
+print(lista)
